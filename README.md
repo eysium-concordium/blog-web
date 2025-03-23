@@ -1,10 +1,3 @@
-# 🛠️ **Concordium - CODEX**
-
-Welcome to **Concordium** – an open-source project designed for collaborative contribution.  
-Feel free to add new features and make improvements, while ensuring the original functionality remains intact.
-
----
-
 ## ⚙️ **Tech Stack Used**
 The project is built using the following technologies:
 
