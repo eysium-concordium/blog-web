@@ -108,20 +108,10 @@ To set up Firebase for the project, follow these steps:
 
 ## 🔥 **Contributing**
 
-We welcome all contributions!  
-To contribute:
-- Fork the repository.  
-- Create a new branch (`git checkout -b feature-branch`).  
-- Make your changes and commit them (`git commit -m "Add your message here"`).  
-- Push your changes (`git push origin feature-branch`).  
-- Open a pull request.  
+We welcome all types of contributions!    
 
 ---
 
 ## 📫 **Contact**
-For any queries or suggestions, feel free to open an issue or reach out.  
+For any queries or suggestions, feel free to reach out to the volunteers.  
 Happy coding! 🚀  
-
----
-
-✅ Let me know if you want any further modifications or additions! 🚀
