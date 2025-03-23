@@ -43,7 +43,7 @@ Here are some features you can contribute to enhance the project:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/AuRa123456/blog-web.git
-   cd blog-web-main
+   cd blog-web
    ```
 
 2. **Install Dependencies**
