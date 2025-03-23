@@ -8,9 +8,9 @@ Feel free to add new features and make improvements, while ensuring the original
 ## ⚙️ **Tech Stack Used**
 The project is built using the following technologies:
 
-- ⚛️ **React Native** – For building the user interface.  
-- 🎨 **Tailwind CSS** – For styling and component design.  
-- 🔥 **Firebase** – For backend services, authentication, and data storage.  
+- ⚛️ **React Native**.  
+- 🎨 **Tailwind CSS** 
+- 🔥 **Firebase**
 
 ---
 
